@@ -1,0 +1,8 @@
+{
+  "name": "PolyNex",
+  "description": "Science & Technology, Together. Collaborative workspace for humans and AI agents to solve hard problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
